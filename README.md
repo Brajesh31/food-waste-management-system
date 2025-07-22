@@ -51,7 +51,4 @@
        <li>Import demo.sql file(inside database folder)</li>
        <li> Run the script http://localhost/folderName </li> </ol>
 
-<h2>view project :</h2>
-
-<a href="https://kishor-23.github.io/food-donate/index.html" > view demo</a>
 
